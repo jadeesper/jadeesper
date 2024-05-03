@@ -1,6 +1,4 @@
-### Hi there 
-
-## 👋 Introducing Myself
+## 🙋🏻‍♀️ Introducing Myself
 Hi there! I'm Jade, a Data Scientist with expertise in machine learning, dashboard development, and text and image processing.
 
 ### ⚡What I do 
