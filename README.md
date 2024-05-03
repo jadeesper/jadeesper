@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**jadeesper/jadeesper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Introducing Myself
+Hi there! I'm Jade, a Data Scientist with expertise in machine learning, dashboard development, and text and image processing.
 
-Here are some ideas to get you started:
+### ⚡What I do 
+- Proficiently query large volumes of data with SQL.
+- Craft ML and DL models using scikit-learn, TensorFlow, and Keras.
+- Create dynamic dashboards with Dash and Streamlit.
+- Perform precise web scraping using Selenium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📚 Projects
+Explore some of my latest projects:
+
+
+### 🛠️ Tools
+
+- Languages: Python, SQL, R, Spark
+- Database: PostgreSQL, MySQL, Google BigQuery
+- Data Engineering tools : Docker, Airflow, Hadoop
+- Visualization: Tableau, Dataiku
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/jadeesper/)
+- Contact me by [e-mail](mailto:jade.esper@gmail.com)
+- Hire me on [Upwork](https://www.upwork.com/freelancers/~015bafa384f4d8602c)
