@@ -10,12 +10,14 @@ Hi there! I'm Jade, a Data Scientist with expertise in machine learning, dashboa
 
 ### 📚 Projects
 Explore some of my latest projects:
-
+- 🚲 [Real-time Bixi Bikes Monitoring Dashboard:](https://github.com/jadeesper/airbnb_price_prediction.git) *Implemented with Airflow, Docker, PostgreSQL*
+- 🏠 Airbnb listings Price estimation and Webscraping: *Implemented with Selenium, Scikit-learn Streamlit*
+- 💡Electricity conumption Analysis: *Implemented with Pyspark*
 
 ### 🛠️ Tools
 
 - Languages: Python, SQL, R, Spark
-- Database: PostgreSQL, MySQL, Google BigQuery
+- Databases: PostgreSQL, MySQL, Google BigQuery
 - Data Engineering tools : Docker, Airflow, Hadoop
 - Visualization: Tableau, Dataiku
 
