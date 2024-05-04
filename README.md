@@ -12,7 +12,7 @@ Hi there! I'm Jade, a Data Scientist with expertise in machine learning, dashboa
 ### 📚 Projects
 Explore some of my latest projects:
 - 🚲 [Real-time Bixi Bikes Monitoring Dashboard:](https://github.com/jadeesper/velib_map_api.git) *Implemented with Airflow, Docker, PostgreSQL*
-- ✈️[Airbnb listings Price estimation and Webscraping:](https://github.com/jadeesper/airbnb_price_prediction.git) *Implemented with Selenium, Scikit-learn Streamlit*
+- ✈️[Airbnb listings Price estimation and Webscraping:](https://github.com/jadeesper/airbnb_price_prediction.git) *Implemented with Selenium, Scikit-learn, Streamlit*
 - 🏠[Real Estate Market Analysis:](https://github.com/jadeesper/real_estate_analysis.git) *Implemented with Pyspark*
 
 ### 🛠️ Skills & Tools
