@@ -6,6 +6,7 @@ Hi there! I'm Jade, a Data Scientist with expertise in machine learning, dashboa
 - Craft ML and DL models using scikit-learn, TensorFlow, and Keras.
 - Create dynamic dashboards with Dash and Streamlit.
 - Perform precise web scraping using Selenium.
+- Deploy encapsulated applications using Docker.
 
 
 ### 📚 Projects
@@ -14,12 +15,14 @@ Explore some of my latest projects:
 - ✈️[Airbnb listings Price estimation and Webscraping:](https://github.com/jadeesper/airbnb_price_prediction.git) *Implemented with Selenium, Scikit-learn Streamlit*
 - 🏠[Real Estate Market Analysis:](https://github.com/jadeesper/real_estate_analysis.git) *Implemented with Pyspark*
 
-### 🛠️ Tools
+### 🛠️ Skills & Tools
 
 - Languages: Python, SQL, R, Spark
 - Databases: PostgreSQL, MySQL, Google BigQuery
-- Data Engineering tools : Docker, Airflow, Hadoop
-- Visualization: Tableau, Dataiku
+- Tools : Docker, Airflow, Hadoop
+- Visualization: Tableau, Looker, Dataiku
+- Cloud Platform: Google Cloud Platform (GCP) - Google Cloud Certified
+- Agile Project Management : Notion, Jira
 
 ### 👋🏻 Connect with Me
 
