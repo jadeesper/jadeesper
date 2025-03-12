@@ -1,12 +1,13 @@
 ## 🙋🏻‍♀️ Introducing Myself
-Hi there! I'm Jade, a Data Scientist with expertise in machine learning, dashboard development, and text and image processing.
+Hi there! I'm Jade, a Data Scientist passionate about AI (text and image processing) and statistical analysis. I thrive on transforming complex data into actionable insights.
 
 ### ⚡What I do 
-- Proficiently query large volumes of data with SQL.
 - Craft ML and DL models using scikit-learn, TensorFlow, and Keras.
+- Develop LLM-based solutions to address complex challenges.
 - Create dynamic dashboards with Dash and Streamlit.
 - Perform precise web scraping using Selenium.
 - Deploy encapsulated applications using Docker.
+- Proficiently query large volumes of data with SQL.
 
 
 ### 📚 Projects
@@ -18,11 +19,11 @@ Explore some of my latest projects:
 ### 🛠️ Skills & Tools
 
 - Languages: Python, SQL, R, Spark
-- Databases: PostgreSQL, MySQL, Google BigQuery
+- Databases: PostgreSQL, MySQL
 - Tools : Docker, Airflow, Hadoop
 - Visualization: Tableau, Looker, Dataiku
-- Cloud Platform: Google Cloud Platform (GCP) - Google Cloud Certified
-- Agile Project Management : Notion, Jira
+- Cloud Platform: AWS, Google Cloud Platform (GCP)
+- Agile Project Management : Notion, Jira, Trello
 
 ### 👋🏻 Connect with Me
 
